@@ -1,2 +1,3 @@
 # Predicting Credit Risk
-Using supervised machine learning to predict credit risks.
+
+Author: Rosie Gianan, gianr00@gmail.com
